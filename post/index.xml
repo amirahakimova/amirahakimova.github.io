@@ -5,12 +5,30 @@
     <link>https://amirahakimova.github.io/post/</link>
       <atom:link href="https://amirahakimova.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amirahakimova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://amirahakimova.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://amirahakimova.github.io/post/03/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://amirahakimova.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-неделя-на-бизнес-информатике-как-прошли-будни&#34;&gt;🌟 Неделя на Бизнес-информатике: как прошли будни&lt;/h1&gt;
+&lt;p&gt;Привет, народ! 👋&lt;/p&gt;
+&lt;p&gt;Эта неделя была прям как мини-марафон — насыщенная, местами сложная, но интересная:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На практике по программированию написали свой первый скрипт — пусть и с ошибками, но работает!&lt;/li&gt;
+&lt;li&gt;📊 На аналитике данных пробовали визуализировать Excel-таблицы. Графики вышли почти как у аналитиков из больших компаний 😎&lt;/li&gt;
+&lt;li&gt;🤯 Мозги вскипели на лекции по экономике, но зато поняли, как считать точки безубыточности.&lt;/li&gt;
+&lt;li&gt;☕ И конечно, не обошлось без пятиминутных кофе-пауз в буфете — тоже важная часть учебы 😉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Если у вас неделя была тоже продуктивной — вы молодцы. Если не очень — не беда, новая уже на носу 💪&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
