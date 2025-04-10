@@ -5,7 +5,7 @@
     <link>https://amirahakimova.github.io/project/</link>
       <atom:link href="https://amirahakimova.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amirahakimova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
@@ -13,27 +13,47 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://amirahakimova.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://amirahakimova.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://amirahakimova.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://amirahakimova.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://amirahakimova.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://amirahakimova.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>сайт научного работника</title>
+      <link>https://amirahakimova.github.io/project/hugo/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://amirahakimova.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Создание персонального сайта научного работника становится важным шагом на пути к профессиональной видимости и цифровому присутствию в академическом сообществе. Один из самых удобных инструментов для этого — &lt;strong&gt;Hugo&lt;/strong&gt; с темой &lt;strong&gt;Academic&lt;/strong&gt;, которая предоставляет гибкий и функциональный шаблон для представления научных достижений, проектов и биографии.&lt;/p&gt;
+&lt;h2 id=&#34;зачем-нужен-сайт-научного-работника&#34;&gt;Зачем нужен сайт научного работника?&lt;/h2&gt;
+&lt;p&gt;В современном академическом мире онлайн-платформа помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Представить исследовательскую деятельность;&lt;/li&gt;
+&lt;li&gt;Продемонстрировать публикации, тезисы и доклады;&lt;/li&gt;
+&lt;li&gt;Поделиться учебными материалами;&lt;/li&gt;
+&lt;li&gt;Публиковать новости, связанные с научной работой;&lt;/li&gt;
+&lt;li&gt;Укрепить профессиональный имидж.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;почему-hugo-и-academic&#34;&gt;Почему Hugo и Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — это быстрый и надёжный генератор статических сайтов. Он не требует серверной части, легко настраивается и отлично работает с системой контроля версий, такой как Git.&lt;/p&gt;
+&lt;p&gt;Тема &lt;strong&gt;Academic&lt;/strong&gt; (позже переименованная в &lt;strong&gt;Hugo-PaperMod Academic&lt;/strong&gt;) разработана специально для научных работников и преподавателей. Она поддерживает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Автоматическое отображение списка публикаций (включая BibTeX);&lt;/li&gt;
+&lt;li&gt;Разделы для проектов, преподавания и наград;&lt;/li&gt;
+&lt;li&gt;Поддержку многоязычности;&lt;/li&gt;
+&lt;li&gt;Адаптивный дизайн и простую структуру контента.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;основные-возможности&#34;&gt;Основные возможности&lt;/h2&gt;
+&lt;p&gt;После настройки темы Academic вы сможете:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Организовать своё портфолио;&lt;/li&gt;
+&lt;li&gt;Подключить Google Scholar, ORCID, ResearchGate и другие профили;&lt;/li&gt;
+&lt;li&gt;Вести блог или новостную ленту;&lt;/li&gt;
+&lt;li&gt;Добавлять страницы с описанием курсов, лабораторий или групп.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;лучшие-практики&#34;&gt;Лучшие практики&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Следите за структурой каталогов контента: каждая публикация, проект или курс имеет свою директорию с метаинформацией.&lt;/li&gt;
+&lt;li&gt;Используйте YAML или TOML для конфигурации сайта.&lt;/li&gt;
+&lt;li&gt;Сохраняйте все данные о публикациях в формате BibTeX для автоматической генерации библиографии.&lt;/li&gt;
+&lt;li&gt;Регулярно обновляйте разделы с проектами и новыми публикациями.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Сайт, созданный с помощью Hugo и темы Academic, — это не просто визитка, а полноценная информационная платформа, отражающая научную карьеру. Он помогает централизовать информацию, упрощает обмен знаниями и делает научную деятельность более доступной для широкой аудитории.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
